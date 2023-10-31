@@ -1,0 +1,20 @@
+name: ml4ct
+channels:
+  - pytorch
+  - aahendriksen
+  - conda-forge
+  - astra-toolbox
+  - defaults
+dependencies:
+  - astra-toolbox
+  - cudatoolkit
+  - foam_ct_phantom
+  - imageio
+  - matplotlib
+  - numpy
+  - python
+  - pytorch
+  - scikit-image
+  - tomosipo
+  - tqdm
+prefix: /home/shij3/miniconda3/envs/ml4ct
